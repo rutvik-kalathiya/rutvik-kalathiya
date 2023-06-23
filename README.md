@@ -4,7 +4,8 @@ I'm a passionate full-stack developer with more than 2 years of experience in bu
 
 - 🌱 I’m currently learning **Playwright**
 - 📫 How to reach me **rutvikkalathiya7@gmail.com**
-  
+
+<h3 align="left">Languages and Tools 🧰</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -56,7 +57,7 @@ I'm a passionate full-stack developer with more than 2 years of experience in bu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
 </p>
-<h3 align="left">Connect with me :)</h3>
+<h3 align="left">Connect with me 💬</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rutvik-kalathiya/" target="blank">
     <img align="center" src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/linkedin.png" alt="https://www.linkedin.com/in/rutvik-kalathiya/" height="40"/>
@@ -64,14 +65,14 @@ I'm a passionate full-stack developer with more than 2 years of experience in bu
     <img align="center" src="https://img.icons8.com/color/2x/xing.png" alt="https://www.linkedin.com/in/rutvik-kalathiya/" height='40'/>
   </a>
   <a href="https://twitter.com/https://twitter.com/rutvik416" target="blank">
-    <img align="center" src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/twitter.png" alt="https://twitter.com/rutvik416" height="40"/></a>
-  <a href="https://fb.com/https://www.facebook.com/rutvikkalathiya416/" target="blank">
-    <img align="center" src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/facebook.png" alt="https://www.facebook.com/rutvikkalathiya416/" height="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rutvik416" height="30" width="35" />
   </a>
+  <a href="https://fb.com/https://www.facebook.com/rutvikkalathiya416/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rutvikkalathiya416/" height="30" width="40" /></a>
   <a href="https://medium.com/https://medium.com/@rutvik416" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@rutvik416" height="30" width="40" />
   <a href="https://dev.to/https://dev.to/rutvikkalathiya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rutvikkalathiya" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rutvikkalathiya" height="30" width="30" />
   </a>
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14155133/rutvik-kalathiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14155133/rutvik-kalathiya" height="30" width="40" />
