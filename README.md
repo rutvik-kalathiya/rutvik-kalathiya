@@ -61,6 +61,7 @@ I'm a passionate full-stack developer with more than 2 years of experience in bu
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/rutvik-kalathiya/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rutvik-kalathiya/" height="30" width="40" />
   </a>
+  <a href="https://twitter.com/https://twitter.com/rutvik416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rutvik416" height="30" width="40" /></a>
   <a href="https://dev.to/https://dev.to/rutvikkalathiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rutvikkalathiya" height="30" width="40" />
   </a>
