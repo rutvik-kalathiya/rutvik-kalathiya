@@ -56,14 +56,17 @@ I'm a passionate full-stack developer with more than 2 years of experience in bu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :)</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rutvik-kalathiya/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rutvik-kalathiya/" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/rutvik-kalathiya/" target="blank">
+    <img align="center" src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/linkedin.png" alt="https://www.linkedin.com/in/rutvik-kalathiya/" height="40"/>
+  <a href="https://www.xing.com/profile/Rutvik_Kalathiya/" target="blank">
+    <img align="center" src="https://img.icons8.com/color/2x/xing.png" alt="https://www.linkedin.com/in/rutvik-kalathiya/" height='40'/>
   </a>
-  <a href="https://twitter.com/https://twitter.com/rutvik416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rutvik416" height="30" width="40" /></a>
+  <a href="https://twitter.com/https://twitter.com/rutvik416" target="blank">
+    <img align="center" src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/twitter.png" alt="https://twitter.com/rutvik416" height="40"/></a>
   <a href="https://fb.com/https://www.facebook.com/rutvikkalathiya416/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rutvikkalathiya416/" height="30" width="40" />
+    <img align="center" src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/facebook.png" alt="https://www.facebook.com/rutvikkalathiya416/" height="40"/>
   </a>
   <a href="https://medium.com/https://medium.com/@rutvik416" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@rutvik416" height="30" width="40" />
