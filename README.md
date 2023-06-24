@@ -80,7 +80,7 @@ I'm a passionate full-stack developer with more than 2 years of experience in bu
   <a href="https://dev.to/rutvikkalathiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rutvikkalathiya" height="30" width="30" />
   </a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14155133/rutvik-kalathiya" target="blank">
+  <a href="https://stackoverflow.com/users/14155133/rutvik-kalathiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14155133/rutvik-kalathiya" height="30" width="40" />
   </a>
   <a href="https://codesandbox.io/u/rutvik-kalathiya" target="blank">
