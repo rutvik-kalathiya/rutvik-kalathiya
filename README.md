@@ -64,20 +64,20 @@ I'm a passionate full-stack developer with more than 2 years of experience in bu
   <a href="https://www.xing.com/profile/Rutvik_Kalathiya/" target="blank">
     <img align="center" src="https://img.icons8.com/color/2x/xing.png" alt="https://www.linkedin.com/in/rutvik-kalathiya/" height='40'/>
   </a>
-  <a href="https://twitter.com/https://twitter.com/rutvik416" target="blank">
+  <a href="https://twitter.com/rutvik416" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rutvik416" height="30" width="35" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/rutvikkalathiya416/" target="blank">
+  <a href="https://www.facebook.com/rutvikkalathiya416/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rutvikkalathiya416/" height="30" width="40" /></a>
-  <a href="https://medium.com/https://medium.com/@rutvik416" target="blank">
+  <a href="https://medium.com/@rutvik416" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@rutvik416" height="30" width="40" />
-  <a href="https://dev.to/https://dev.to/rutvikkalathiya" target="blank">
+  <a href="/https://dev.to/rutvikkalathiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rutvikkalathiya" height="30" width="30" />
   </a>
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14155133/rutvik-kalathiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14155133/rutvik-kalathiya" height="30" width="40" />
   </a>
-  <a href="https://codesandbox.com/https://codesandbox.io/u/rutvik-kalathiya" target="blank">
+  <a href="https://codesandbox.io/u/rutvik-kalathiya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/rutvik-kalathiya" height="30" width="40" />
   </a>
   </a>
