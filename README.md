@@ -75,6 +75,8 @@ I'm a passionate full-stack developer with more than 2 years of experience in bu
   </a>
   <a href="https://www.facebook.com/rutvikkalathiya416/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rutvikkalathiya416/" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/rutvikkalathiya7" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png?20200508182226" alt="https://www.hackerrank.com/rutvikkalathiya7" height="30" width="30" />
   <a href="https://medium.com/@rutvik416" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@rutvik416" height="30" width="40" />
   <a href="https://dev.to/rutvikkalathiya" target="blank">
