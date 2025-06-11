@@ -45,10 +45,10 @@ I'm a passionate full-stack developer with more than 3 years of experience in bu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/tailwind.png" alt="tailwind" width="40" height="40" />
+    <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/tailwind.png" alt="tailwind" width="40" height="30" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/bootstrap.png" alt="bootstrap" width="40" height="40" />
+    <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/bootstrap.png" alt="bootstrap" width="40" height="30" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -57,10 +57,10 @@ I'm a passionate full-stack developer with more than 3 years of experience in bu
     <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/playwright.svg" alt="playwright" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/aws.png" alt="aws" width="40" height="40" />
+    <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/aws.png" alt="aws" width="40" height="30" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/docker.svg" alt="docker" width="40" height="40" />
+    <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/docker.svg" alt="docker" width="40" height="35" />
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
