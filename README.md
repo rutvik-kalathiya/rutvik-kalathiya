@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutvik Kalathiya</h1>
-I'm a passionate full-stack developer with more than 3 years of experience in building web applications. I enjoy working with cutting-edge technologies and solving complex problems to deliver high-quality software solutions. My expertise lies in both front-end and back-end development, and I love to collaborate with teams to create innovative and efficient applications.
+I'm a passionate full-stack developer with 3+ years of experience in building web applications. I enjoy working with cutting-edge technologies and solving complex problems to deliver high-quality software solutions. My expertise lies in both front-end and back-end development, and I love to collaborate with teams to create innovative and efficient applications.
 <img align="right" alt="Coding" width="400" src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/programmer.gif" />
 
 - 🔭 I’m currently working on [Enavia](https://www.enavia.io/)
