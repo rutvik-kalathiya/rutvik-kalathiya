@@ -1,12 +1,75 @@
-<h1 align="center">Hi 👋, I'm Rutvik Kalathiya</h1>
-I'm a passionate full-stack developer with 3+ years of experience in building web applications. I enjoy working with cutting-edge technologies and solving complex problems to deliver high-quality software solutions. My expertise lies in both front-end and back-end development, and I love to collaborate with teams to create innovative and efficient applications.
-<img align="right" alt="Coding" width="400" src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/programmer.gif" />
+<!-- <h1 align="center">Hi 👋, I'm Rutvik Kalathiya</h1> -->
+<!--I'm a passionate full-stack developer with 3+ years of experience in building web applications. I enjoy working with cutting-edge technologies and solving complex problems to deliver high-quality software solutions. My expertise lies in both front-end and back-end development, and I love to collaborate with teams to create innovative and efficient applications. -->
+#### I do:
+<img align="right" alt="Coding" width="380" src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/programmer.gif" />
+🖥️ Frontends that engage. <br>
+⚙️ Backends that scale. <br>
+🎨 UIs that delight. <br>
+🔌 APIs that connect. <br>
+🚀 Deployments that deliver. <br>
+<!-- - 🔭 I’m currently working on [Enavia](https://www.enavia.io/) -->
+<!--- 🌱 I’m currently learning [**Playwright**](https://playwright.dev/) -->
+<!-- - 📫 How to reach me **rutvikkalathiya7@gmail.com** -->
 
-- 🔭 I’m currently working on [Enavia](https://www.enavia.io/)
-<!--- 🌱 I’m currently learning [**Playwright**](https://playwright.dev/) !-->
-- 📫 How to reach me **rutvikkalathiya7@gmail.com**
+#### Currently, I am...
+Working as a Full Stack Developer @ [PurpleLeafStrategy GmbH](https://www.enavia.io/) 📍 Wolfsburg
 
-<h3 align="left">Languages and Tools 🧰</h3>
+#### 🧠 Languages Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg" alt="javascript" title="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/typescript-icon.svg" alt="typescript" title="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/html-5.svg" alt="html5" title="Html"width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/css-3.svg" alt="css3" title="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/python.svg" alt="python" title="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/java.svg" alt="java" title="Java" width="40" height="40"/>
+</p>
+
+#### 🖥️ Frontend Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextjs-icon.svg" alt="nextjs" title="NextJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg" alt="react" title="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/redux.svg" alt="redux" title="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tailwindcss-icon.svg" alt="tailwindcss" title="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sass.svg" alt="sass" title="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/material-ui.svg" alt="material-ui" title="MaterialUI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/storybook-icon.svg" alt="storybook" title="Storybook" width="40" height="40"/>
+</p>
+
+#### 🛠 Backend & Dev Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nodejs.svg" alt="nextjs" title="NextJS" width="40" height="40"/>
+  <img src="https://github.com/rutvik-kalathiya/rutvik-kalathiya/blob/main/express-color.svg" alt="express" title="ExpressJS"  width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/redis.svg" alt="redis" title="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/mysql-icon.svg" alt="mysql" title="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tensorflow.svg" alt="tensorflow" title="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi-icon.svg" alt="fastapi" title="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jwt-icon.svg" alt="jwt" title="JWT" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nodemon.svg" alt="nodemon" title="Nodemon" width="40" height="40"/>
+</p>
+
+#### ☁️ Cloud & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" alt="aws" title="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/docker-icon.svg" alt="docker" title="Docker"  width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/heroku-icon.svg" alt="heroku" title="Heroku" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/git-icon.svg" alt="git" title="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jira.svg" alt="jira" title="Jira" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/postman-icon.svg" alt="postman" title="Postman" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/stripe.svg" alt="stripe" title="Stripe" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" alt="playwright" title="Playwright" width="40" height="40" />
+</p>
+
+#### 🤝 Connect With Me
+If you’d like to collaborate, discuss a project, or just say hi:
+<p align="left">
+  <a href="https://rutvikkalathiya.com/contact" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ 💬 Let's%20Connect-007acc?style=for-the-badge&logo=chat&logoColor=white" alt="Let's Connect" />
+  </a>
+</p>
+
+
+<!-- <h3 align="left">Languages and Tools 🧰</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -78,7 +141,7 @@ I'm a passionate full-stack developer with 3+ years of experience in building we
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   </a> 
   -->
-</p>
+<!-- </p>
 <h3 align="left">Connect with me 💬</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rutvik-kalathiya/" target="blank">
@@ -107,4 +170,4 @@ I'm a passionate full-stack developer with 3+ years of experience in building we
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/rutvik-kalathiya" height="30" width="40" />
   </a>
   </a>
-</p>
+</p> -->
