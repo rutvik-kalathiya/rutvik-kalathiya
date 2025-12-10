@@ -12,7 +12,7 @@
 <!-- - 📫 How to reach me **rutvikkalathiya7@gmail.com** -->
 
 #### Currently, I am...
-Working as a Full Stack Developer @ [PurpleLeafStrategy GmbH](https://www.enavia.io/) 📍 Wolfsburg
+Working as a Full Stack Developer @ [prp project:people GmbH](https://pr-p.net/) 📍 Wolfsburg
 
 #### 🧠 Languages Stack
 <p align="left">
